@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HW1Android1</string>
+
+    <string name="open">Вход</string>
+    <string name="two">Выполните вход или</string>
+    <string name="three">
+        зарегиструйтесь!</string>
+
+</resources>
